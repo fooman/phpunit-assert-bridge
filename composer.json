@@ -1,0 +1,12 @@
+{
+    "name": "fooman/phpunit-assert-bridge",
+    "license": ["BSD-3-Clause"],
+    "autoload": {
+        "psr-4": {
+            "Fooman\\PhpunitAssertBridge\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^4.1 | ^6.2",
+    }
+}
